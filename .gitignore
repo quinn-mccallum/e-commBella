@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+capstone-muskoka-backend/google-key.js
+
+capstone-muskoka-frontend/src/GoogleKey.js
